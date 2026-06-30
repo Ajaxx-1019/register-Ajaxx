@@ -1,0 +1,11 @@
+{
+  "description": "Personal website",
+  "repo": "https://github.com/Ajaxx-1019",
+  "owner": {
+    "username": "Ajaxx-1019",
+    "email": "muhammadrajaa1911@gmail.com"
+  },
+  "record": {
+    "CNAME": "ajaxxchipercode.vercel.app"
+  }
+}
